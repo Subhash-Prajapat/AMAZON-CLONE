@@ -280,6 +280,27 @@
 }
 
 /**foter **/
+.footersignin {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 130px;
+}
+.footersignin h5 {
+  position: relative;
+  left: 24px;
+}
+.footersignin button {
+  width: 240px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5cd69;
+  border-radius: 5px;
+  font-weight: 700;
+  border-color: chocolate;
+}
+
 footer {
   margin-top: 15px;
 }
