@@ -278,6 +278,15 @@
   height: 100px;
   margin: 8px;
 }
+.moviesbar {
+  height: 281px;
+  width: 98%;
+}
+.moviesimage {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
 
 /**foter **/
 .footersignin {
